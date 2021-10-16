@@ -255,7 +255,7 @@ div:nth-child(2) > [id*="sub"] > div {
     width: 200px;
 }
 /*App image*/
-[src="/images/logo-app.png"] {
+[src="images/logo-app.png"] {
     width: 80%;
     object-fit: cover;
     display: block;
